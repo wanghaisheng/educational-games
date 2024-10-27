@@ -1,4 +1,5 @@
-# EdCube©
+# EdCube©1028
+
 EdCube© is not meant to played in a workplace or school environment. By using the EdCube site and any associated sites (ex. CubeProxy©), you agree to EdCube©'s Terms of Service, Privacy Policy, Code of Conduct, Security Policy, Disclaimer, and  MIT License.
 
 The goal of EdCube Studios© is to provide people with a quick and easy way to access a large library of fun games to play at home or with friends. It should be duly noted that no games on the main Edcube site are owned by the EdCube Studios© and all credits for the site go to their individual owner (available through page source and inspect element; and soon throught a credits page).
